@@ -9,7 +9,7 @@
  */
 
 
-$secret = '6LfJJWQiAAAAAKvIcNfpjUlTZEShPmtPIWizRoUi';
+$secret = 'YOUR_SECRET_KEY';
 
 // CORS
 header('Access-Control-Allow-Origin: *');
