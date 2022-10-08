@@ -1,0 +1,8 @@
+# Default ignored files
+/../../recaptcha-verifycation /.idea/shelf/
+/../../recaptcha-verifycation /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../recaptcha-verifycation /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../recaptcha-verifycation /.idea/dataSources/
+/../../recaptcha-verifycation /.idea/dataSources.local.xml
